@@ -21,9 +21,3 @@ At the beginning of the game, all the ants are in the room ##start. The goal is 
 The shortest path is not necessarily the simplest.	
 Some colonies will have many rooms and many links, but no path between ##start and ##end.	
 Some will have rooms that link to themselves, sending your path-search spinning in circles. Some will have too many/too few ants, no ##start or ##end, duplicated rooms, links to unknown rooms, rooms with invalid coordinates and a variety of other invalid or poorly-formatted input. In those cases the program will return an error message ERROR: invalid data format. If you wish, you can elaborate a more specific error message (example: ERROR: invalid data format, invalid number of Ants or ERROR: invalid data format, no start room found).
-
-## Authors -
-- Discord - 01Edu platform
-- Nathan - Nathan
-- Kingsley - Kingyam
-- MoAbdulkadir - Mohamed
